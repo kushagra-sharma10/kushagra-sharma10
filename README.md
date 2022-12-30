@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @kushagra-sharma10
-- 👀 I’m interested in Machine Learning/NLP 
-- 🌱 I’m currently learning Web Development/Deployment 
-- 💞️ I’m looking to collaborate on Expert Systems  
+-  💞️ I’m looking to collaborate on Expert Systems  
 - 📫 How to reach me ...www.linkedin.com/in/kushagrasharma10
                   email: sharmakushagra666@gmail.com     
 
